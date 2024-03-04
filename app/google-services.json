@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790983008130",
+    "project_id": "projectday8-1cf71",
+    "storage_bucket": "projectday8-1cf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790983008130:android:775e764a87a5041e36b99b",
+        "android_client_info": {
+          "package_name": "com.devdroid.projectday8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDT1n_ulLFCdycCBhlSj7fi4toG1myn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
